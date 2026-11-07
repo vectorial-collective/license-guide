@@ -30,7 +30,7 @@ We chose the MIT License for three core reasons:
 ### 📋 What You MUST Do:
 * **Include the Copyright:** Whenever you distribute our code or a substantial portion of it, you must include the original Vectorial Collective copyright notice and a copy of the MIT License.
 
-### 🚫 What You CANNOT Hold Us Accountable For:
+### 🚫 What You CANNOT Be Held Accountable For:
 * **No Liability:** The software is provided "as is," without warranty of any kind. If a script fails or gives an incorrect calculation, the original authors and Vectorial Collective cannot be held legally liable or sued.
 
 ---
